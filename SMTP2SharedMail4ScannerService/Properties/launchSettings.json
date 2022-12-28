@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "SMTP2SharedMail4ScannerService": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
